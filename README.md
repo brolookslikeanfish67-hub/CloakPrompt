@@ -1,4 +1,4 @@
-# 🕶️ CloakPrompt
+#  CloakPrompt
 
 **A local PII masking engine that sits between your app and any cloud LLM provider.**
 
