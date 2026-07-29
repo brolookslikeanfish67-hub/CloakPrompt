@@ -1,0 +1,12 @@
+{
+  "name": "cloakprompt",
+  "version": "0.1.0",
+  "description": "A local PII masking engine that sits between your app and any cloud LLM provider.",
+  "main": "index.js",
+  "type": "commonjs",
+  "keywords": ["privacy", "pii", "llm", "openai", "anthropic", "security", "redaction", "masking"],
+  "license": "MIT",
+  "scripts": {
+    "test": "node test/test_engine.js"
+  }
+}
